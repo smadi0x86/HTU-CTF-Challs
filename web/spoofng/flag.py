@@ -1,0 +1,1 @@
+FLAG = "HTU{sP00f1nG_1s_c0ol_a5_1t_1s_3ff3ct1v3!}"

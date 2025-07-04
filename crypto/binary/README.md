@@ -1,0 +1,11 @@
+# Binary
+
+Description: This challenge is a simple binary challenge. You need to find the flag.
+
+0100100001010100010101010111101101001001010111110110001100110100011011100101111101110010010001010100000101000100010111110011000101110011010111110110000101101110011001000101111100110000011100110101111101110011001100000101111101100101010000010111101001001001011011000101100101111101
+
+## Solution
+
+The binary string is a simple ASCII string. We can convert it to ASCII using an online tool (https://www.rapidtables.com/convert/number/binary-to-ascii.html) or a simple python script.
+
+Flag: `HTU{I_c4n_rEAD_1s_and_0s_s0_eAzIlY}`
